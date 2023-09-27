@@ -1,1 +1,1 @@
-# lecture-project
+# Description of the project here
